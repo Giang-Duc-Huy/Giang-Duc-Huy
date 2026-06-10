@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dkf2c92bo/image/upload/v1781111439/Banner_o8fh0u.png" />
+</p>
+
+---
+
 ## About Me
 - 🇻🇳 Developer from Vietnam
 - 💻 Fullstack with **React, Node.js, .NET**
