@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dkf2c92bo/image/upload/v1781111439/Banner_o8fh0u.png" />
+  <img src="https://res.cloudinary.com/dkf2c92bo/image/upload/v1781112739/Frame_1_1_q1vgp2.png" />
 </p>
 
 ---
