@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">Fullstack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast</h3>
 <p align="center">I design & build modern web applications from UI to backend systems</p>
 
 ---
@@ -13,7 +13,7 @@
 ## About Me
 
 - 🇻🇳 Developer from Vietnam
-- 💻 Fullstack with **React, Node.js, .NET**
+- 💻 Frontend with **React, Node.js**
 - 🎨 Interested in **UI/UX & Product Design**
 
 ---
@@ -68,5 +68,5 @@
 
 ## 🎯 Current Focus
 
-- 💻 Fullstack Web Development
+- 💻 Frontend Web Development
 - 🎨 UI/UX Design with Figma
